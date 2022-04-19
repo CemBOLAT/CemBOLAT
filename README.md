@@ -32,7 +32,7 @@
             <div>
                 <nav>
                     <a target="_blank" href="https://www.linkedin.com/in/cemal-bolat-a5188721b/">
-                        <img src="https://user-images.githubusercontent.com/103999323/163988149-7cc14387-b84f-45ce-ab26-9452d31d0dda.jpg" width="50px" style="border-radius: 25px;" alt="linkedInButton">
+                        <img src="https://user-images.githubusercontent.com/103999323/164003149-5ef2605b-7d9b-45fc-8228-d1dd8d1b21b1.svg" width="100px" style="border-radius: 25px;" alt="linkedInButton">
                     </a>
                 </nav>
             </div>
