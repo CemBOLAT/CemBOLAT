@@ -6,8 +6,11 @@
     </head>
     <body>
         <header>
-            <small style="font-size: 10px; color: red;">CemBOLAT/README.md</small>
-					<hr>		
+            <small>CemBOLAT/README.md</small>
+					<hr>
+					<h1>Hello 👋 !<br></h1>
+					<hr>
+					<h1></h1>
 				</header>        
         <main></main>
         <footer></footer>
