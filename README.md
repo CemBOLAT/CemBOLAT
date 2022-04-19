@@ -22,10 +22,10 @@
         <main>
             <div>
                 <p>Here is the place of the student who wants to be a Front-End Developer!..</p> <br>
-                <p>I am a student, programmer, motivator, team player. This GitHub page shows the projects of mine. 
+                <p>I am a student, programmer, motivator, and team player. This GitHub page shows the project of mine. 
                     My materials are HTML,CSS and JavaScript. 
-                    My goals are filling this page with Web Developer projects,contents and ideas also, showing the way of being Web Developer as my way. 
-                    If you want to share your ideas or to get uptodates about the contents of mine, 
+                    My goals are to fill this page with Web Developer projects, content, and ideas and show how to be a Web Developer as my way. 
+                    If you want to share your ideas or to get updates about the content of mine, 
                     Do not forget to follow me on GitHub or LinkedIn.
                 </p>
             </div>
@@ -101,4 +101,3 @@
         <footer></footer>
     </body>
 </html>
-
