@@ -6,10 +6,6 @@
     </head>
     <body>
         <header>
-            <nav>
-                <a href="https://github.com/CemBOLAT/CemBOLAT/blob/main/README.md">CemBOLAT</a>
-                <span>/README.md</span>
-            </nav>
             <section>
                 <h1>Hello 👋 !</h1>
             </section>
