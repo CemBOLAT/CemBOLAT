@@ -14,7 +14,9 @@
                 <h1>It's me Cemal BOLAT</h1>
             </section>
             <hr>
-        </header>        
+            <p align="left"> <img src="https://komarev.com/ghpvc/?username=cembolat&label=Profile%20views&color=0e75b6&style=flat" alt="cembolat" /> </p>
+            <hr>
+        </header>      
         <main>
             <div>
                 <p>Here is the place of the student who wants to be a Front-End Developer!..</p> <br>
@@ -26,6 +28,7 @@
                 </p>
             </div>
             <div>
+                <p>📫 How to reach me: cemalbolat2003@outlook.com</p>
                 <nav>
                     <a target="_blank" href="https://www.linkedin.com/in/cemal-bolat-a5188721b/">
                         <img src="https://user-images.githubusercontent.com/103999323/164003149-5ef2605b-7d9b-45fc-8228-d1dd8d1b21b1.svg" width="100px" style="border-radius: 25px;" alt="linkedInButton">
@@ -36,23 +39,7 @@
                 <h1>Technologies which I have known and I want to learn.</h1>
                 <hr>
                 <h2>Technologies which I have known :</h2>
-                <nav>
-                    <a style="text-decoration: none;" href="">
-                        <span>
-                            <img src="https://user-images.githubusercontent.com/103999323/163989204-89036cbc-867b-49ab-97d7-3b95841408e3.svg" width="30px" alt="html5">
-                        </span>
-                    </a>
-                    <a style="text-decoration: none;" href="">
-                        <span>
-                            <img src="https://user-images.githubusercontent.com/103999323/163989537-4209b24f-afd4-49e0-9ac0-9dda35c02a22.svg" width="30px" alt="css">
-                        </span>
-                    </a>
-                    <a style="text-decoration: none;" href="">
-                        <span>
-                            <img src="https://user-images.githubusercontent.com/103999323/163989836-3ac52de1-9d19-4c89-b9fe-aca2981dd831.svg" width="30px" alt="JavaScript">
-                        </span>
-                    </a>
-                </nav>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
                 <h2>Technologies which I want to learn :</h2>
                 <hr>
                 <nav>
@@ -91,8 +78,11 @@
                             <img src="https://user-images.githubusercontent.com/103999323/163990774-58b97d4e-296a-4258-9798-7cd0ca217c8a.svg" width="30px" alt="es6">
                         </span>
                     </a>
+                    <hr>
                 </nav>
             </div>
+            <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cembolat&show_icons=true&locale=en&layout=compact" alt="cembolat" /></p>
         </main>
-    </body>
+        
+    
 </html>
