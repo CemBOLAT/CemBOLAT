@@ -7,14 +7,14 @@
     <body>
         <header>
             <section>
-                <h1>Hello 👋 !</h1>
+                <h1 align="center">Hello 👋 !</h1>
             </section>
             <hr>
             <section>
-                <h1>It's me Cemal BOLAT</h1>
+                <h1 align="center">It's me Cemal BOLAT</h1>
             </section>
             <hr>
-            <p align="left"> <img src="https://komarev.com/ghpvc/?username=cembolat&label=Profile%20views&color=0e75b6&style=flat" alt="cembolat" /> </p>
+            <p align="center"> <img src="https://komarev.com/ghpvc/?username=cembolat&label=Profile%20views&color=0e75b6&style=flat" alt="cembolat" /> </p>
             <hr>
         </header>      
         <main>
