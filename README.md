@@ -19,7 +19,7 @@
         </header>      
         <main>
             <div>
-                <p>Here is the place of the student who wants to be a Front-End Developer!..</p> <br>
+                <p>There is the page of the student who wants to be a Full-Stack Developer!..</p> <br>
                 <p>I am a student, programmer, motivator, and team player. This GitHub page shows the project of mine. 
                     My materials are HTML,CSS and JavaScript. 
                     My goals are to fill this page with Web Developer projects, content, and ideas and show how to be a Web Developer as my way. 
@@ -36,9 +36,9 @@
                 </nav>
             </div>
             <div>
-                <h1>Technologies which I have known and I want to learn.</h1>
+                <h1>Technologies which I know and I want to learn.</h1>
                 <hr>
-                <h2>Technologies which I have known :</h2>
+                <h2>Technologies which I know :</h2>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
                 <h2>Technologies which I want to learn :</h2>
                 <hr>
