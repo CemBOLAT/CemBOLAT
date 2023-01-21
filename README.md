@@ -20,12 +20,6 @@
         <main>
             <div>
                 <p>There is the page of the student who wants to be a Full-Stack Developer!..</p> <br>
-                <p>I am a student, programmer, motivator, and team player. This GitHub page shows the project of mine. 
-                    My materials are HTML,CSS and JavaScript. 
-                    My goals are to fill this page with Web Developer projects, content, and ideas and show how to be a Web Developer as my way. 
-                    If you want to share your ideas or to get updates about the content of mine, 
-                    Do not forget to follow me on GitHub or LinkedIn.
-                </p>
             </div>
             <div>
                 <p>📫 How to reach me: cemalbolat2003@outlook.com</p>
