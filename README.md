@@ -75,7 +75,7 @@
                     <hr>
                 </nav>
             </div>
-            <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cembolat&show_icons=true&locale=en&layout=compact" alt="cembolat" /></p>
+            <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cembolat&show_icons=true&locale=en&layout=compact&theme=radical" alt="cembolat" /></p>
         </main>
         
     
