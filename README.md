@@ -21,19 +21,19 @@
 
 # My Ecole 42 Projects
 
-| Project Name                   | My Point | IsAvailable |
+| Project Name                   | Grades | IsAvailable |
 | :----------------------------- | :-------:| :---------:  |
-| <p align="center">[Libft](https://github.com/CemBOLAT/libft)</p>        |  125/125  | ok           |
-| <p align="center">[get_next_line](link_to_gnl)</p>  | Değer 4  | ok           |
-| <p align="center">[ft_printf](link_to_printf)</p>    | Değer 6  | ok           |
-| <p align="center">[Born2beroot](link_to_born2beroot)</p>| Değer 6  | ok        |
-| <p align="center">[minitalk](link_to_minitalk)</p>  | Değer 6  | ok           |
-| <p align="center">[so_long](link_to_so_long)</p>    | Değer 6  | ok           |
-| <p align="center">[push_swap](link_to_push_swap)</p>| Değer 6  | ok           |
-| <p align="center">[Philosophers](link_to_philosophers)</p>| Değer 6  | ko     |
-| <p align="center">[Minishell](link_to_minishell)</p>| Değer 6  | ko           |
-| <p align="center">[cub3d](link_to_cub3d)</p>        | Değer 6  | ko           |
-| <p align="center">[NetPractice](link_to_netpractice)</p>| Değer 6  | ko       |
+| <p align="center">[Libft](https://github.com/CemBOLAT/libft)</p>        |  125 / 125  | ok           |
+| <p align="center">[get_next_line](https://github.com/CemBOLAT/get-next-line)</p>  | 125 / 125  | ok           |
+| <p align="center">[ft_printf](https://github.com/CemBOLAT/printf)</p>    | 100 / 125 | ok           |
+| <p align="center">[Born2beroot](https://github.com/CemBOLAT/oyk2023)</p>| 110 / 125 (similar project) | ok        |
+| <p align="center">[minitalk](https://github.com/CemBOLAT/Minitalk)</p>  | 118 / 125 | ok           |
+| <p align="center">[so_long](https://github.com/CemBOLAT/so_long)</p>    | 115 / 125 | ok           |
+| <p align="center">[push_swap](link_to_push_swap)</p>| 125 / 125  | ko           |
+| <p align="center">[Philosophers](link_to_philosophers)</p>| 125 / 125  | ko     |
+| <p align="center">[Minishell](link_to_minishell)</p>| 101 / 125  | ko           |
+| <p align="center">[cub3d](link_to_cub3d)</p>        | 125 / 125 | ko           |
+| <p align="center">[NetPractice](link_to_netpractice)</p>| 100 / 100  | ko       |
 
 
 </div>
