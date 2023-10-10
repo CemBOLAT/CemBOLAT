@@ -34,7 +34,7 @@
 | <p align="center">[Philosophers](link_to_philosophers)</p>| 125 / 125  | ---     |
 | <p align="center">[Minishell](link_to_minishell)</p>| 101 / 125  | ---           |
 | <p align="center">[cub3d](link_to_cub3d)</p>        | 125 / 125 | ---          |
-| <p align="center">[NetPractice](link_to_netpractice)</p>| 100 / 100  | ---       |
+| <p align="center">[NetPractice](https://github.com/CemBOLAT/NetPractice)</p>| 100 / 100  | ![output-onlinepngtools (1)](https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f)      |
 
 
 </div>
