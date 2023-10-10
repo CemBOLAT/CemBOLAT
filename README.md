@@ -24,17 +24,17 @@
 
 | Project Name                   | Grades | IsAvailable |
 | :----------------------------- | :-------:| :---------:  |
-| <p align="center">[Libft](https://github.com/CemBOLAT/libft)</p>        |  125 / 125  | ok           |
-| <p align="center">[get_next_line](https://github.com/CemBOLAT/get-next-line)</p>  | 125 / 125  | ok           |
-| <p align="center">[ft_printf](https://github.com/CemBOLAT/printf)</p>    | 100 / 125 | ok           |
-| <p align="center">[Born2beroot](https://github.com/CemBOLAT/oyk2023)</p>| 110 / 125 (similar project) | ok        |
-| <p align="center">[minitalk](https://github.com/CemBOLAT/Minitalk)</p>  | 118 / 125 | ok           |
-| <p align="center">[so_long](https://github.com/CemBOLAT/so_long)</p>    | 115 / 125 | ok           |
-| <p align="center">[push_swap](link_to_push_swap)</p>| 125 / 125  | ko           |
-| <p align="center">[Philosophers](link_to_philosophers)</p>| 125 / 125  | ko     |
-| <p align="center">[Minishell](link_to_minishell)</p>| 101 / 125  | ko           |
-| <p align="center">[cub3d](link_to_cub3d)</p>        | 125 / 125 | ko           |
-| <p align="center">[NetPractice](link_to_netpractice)</p>| 100 / 100  | ko       |
+| <p align="center">[Libft](https://github.com/CemBOLAT/libft)</p>        |  125 / 125  | ![output-onlinepngtools (1)](https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f) |
+| <p align="center">[get_next_line](https://github.com/CemBOLAT/get-next-line)</p>  | 125 / 125  |  ![output-onlinepngtools (1)](https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f)           |
+| <p align="center">[ft_printf](https://github.com/CemBOLAT/printf)</p>    | 100 / 125 |  ![output-onlinepngtools (1)](https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f)           |
+| <p align="center">[Born2beroot](https://github.com/CemBOLAT/oyk2023)</p>| 110 / 125 (similar project) |  ![output-onlinepngtools (1)](https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f)        |
+| <p align="center">[minitalk](https://github.com/CemBOLAT/Minitalk)</p>  | 118 / 125 |  ![output-onlinepngtools (1)](https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f)           |
+| <p align="center">[so_long](https://github.com/CemBOLAT/so_long)</p>    | 115 / 125 |  ![output-onlinepngtools (1)](https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f)           |
+| <p align="center">[push_swap](https://github.com/CemBOLAT/push_swap)</p>| 125 / 125  |  ![output-onlinepngtools (1)](https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f)           |
+| <p align="center">[Philosophers](link_to_philosophers)</p>| 125 / 125  | ---     |
+| <p align="center">[Minishell](link_to_minishell)</p>| 101 / 125  | ---           |
+| <p align="center">[cub3d](link_to_cub3d)</p>        | 125 / 125 | ---          |
+| <p align="center">[NetPractice](link_to_netpractice)</p>| 100 / 100  | ---       |
 
 
 </div>
@@ -45,3 +45,4 @@
 
 <hr>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cembolat&show_icons=true&theme=dark&locale=en&layout=compact" alt="cembolat" /></p>
+
