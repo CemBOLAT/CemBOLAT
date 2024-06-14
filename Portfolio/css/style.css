@@ -1,0 +1,110 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+main {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+section {
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    max-width: 800px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.home-sections {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+.project {
+    margin-bottom: 20px;
+}
+.project img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+@media (max-width: 768px) {
+    nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+    .home-sections {
+        gap: 10px;
+    }
+}
+
+/* Reset default list styles */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Style for each project */
+.project {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.project img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.project h2 {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.project p {
+    text-align: justify;
+    margin-top: 10px;
+}
+
+.project a {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+}
