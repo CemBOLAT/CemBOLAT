@@ -5,39 +5,127 @@
 
 <div align="center">
     
-| Hackerrank Account: | <a href="https://www.hackerrank.com/cemalbolat2003"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cemalbolat2003" height="30" width="40" /></a> |
-|----------------------|-----------------------------------------------------------------------------------------------------------------|
-
+| <a href="https://github.com/CemBOLAT/GTU-University-Assignments"> University Assignments </a> | Hackerrank Account: | <a href="https://www.hackerrank.com/cemalbolat2003"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cemalbolat2003" height="30" width="40" /></a> |
+|----------------------|----------------------|-----------------------------------------------------------------------------------------------------------------|
 
 </div>
 
 <h3 align="center">Languages and Tools</h3>
 <hr>
-<p align="center"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+</p>
 
 <hr>
 
-<div align="center">
+<details>
+<summary><h1>My Ecole 42 Projects</h1></summary>
 
+<table width="100%" align="center">
+  <tr style="display:flex; justify-content:space-around; padding:0;">
+    <th>Project Name</th>
+    <th>Grades</th>
+    <th>Is Available</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CemBOLAT/libft" align="center">Libft</a></td>
+    <td align="center">125 / 125</td>
+    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CemBOLAT/get-next-line" align="center">get_next_line</a></td>
+    <td align="center">125 / 125</td>
+    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CemBOLAT/printf" align="center">ft_printf</a></td>
+    <td align="center">100 / 125</td>
+    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CemBOLAT/oyk2023" align="center">Born2beroot</a></td>
+    <td align="center">110 / 125 (similar project)</td>
+    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CemBOLAT/Minitalk" align="center">minitalk</a></td>
+    <td align="center">118 / 125</td>
+    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CemBOLAT/so_long" align="center">so_long</a></td>
+    <td align="center">115 / 125</td>
+    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CemBOLAT/push_swap" align="center">push_swap</a></td>
+    <td align="center">125 / 125</td>
+    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CemBOLAT/philo" align="center">Philosophers</a></td>
+    <td align="center">125 / 125</td>
+    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CemBOLAT/42-minishell" align="center">Minishell</a></td>
+    <td align="center">101 / 125</td>
+    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CemBOLAT/cub3d" align="center">cub3d</a></td>
+    <td align="center">125 / 125</td>
+    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CemBOLAT/NetPractice" align="center">NetPractice</a></td>
+    <td align="center">100 / 100</td>
+    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+  </tr>
+</table>
 
-# My Ecole 42 Projects
-
-| Project Name                   | Grades | IsAvailable |
-| :----------------------------- | :-------:| :---------:  |
-| <p align="center">[Libft](https://github.com/CemBOLAT/libft)</p>        |  125 / 125  | ![output-onlinepngtools (1)](https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f) |
-| <p align="center">[get_next_line](https://github.com/CemBOLAT/get-next-line)</p>  | 125 / 125  |  ![output-onlinepngtools (1)](https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f)           |
-| <p align="center">[ft_printf](https://github.com/CemBOLAT/printf)</p>    | 100 / 125 |  ![output-onlinepngtools (1)](https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f)           |
-| <p align="center">[Born2beroot](https://github.com/CemBOLAT/oyk2023)</p>| 110 / 125 (similar project) |  ![output-onlinepngtools (1)](https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f)        |
-| <p align="center">[minitalk](https://github.com/CemBOLAT/Minitalk)</p>  | 118 / 125 |  ![output-onlinepngtools (1)](https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f)           |
-| <p align="center">[so_long](https://github.com/CemBOLAT/so_long)</p>    | 115 / 125 |  ![output-onlinepngtools (1)](https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f)           |
-| <p align="center">[push_swap](https://github.com/CemBOLAT/push_swap)</p>| 125 / 125  |  ![output-onlinepngtools (1)](https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f)           |
-| <p align="center">[Philosophers](https://github.com/CemBOLAT/philo)</p>| 125 / 125  | ![output-onlinepngtools (1)](https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f) |
-| <p align="center">[Minishell](https://github.com/CemBOLAT/42-minishell)</p>| 101 / 125  |     ![output-onlinepngtools (1)](https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f)      |
-| <p align="center">[cub3d](https://github.com/CemBOLAT/cub3d)</p>        | 125 / 125 |     ![output-onlinepngtools (1)](https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f)     |
-| <p align="center">[NetPractice](https://github.com/CemBOLAT/NetPractice)</p>| 100 / 100  | ![output-onlinepngtools (1)](https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f)      |
-
-
-</div>
+</details>
 
 <hr>
 
@@ -45,4 +133,3 @@
 
 <hr>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cembolat&show_icons=true&theme=dark&locale=en&layout=compact" alt="cembolat" /></p>
-
