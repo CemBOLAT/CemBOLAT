@@ -1,0 +1,74 @@
+// Bootstrap'i import edin
+@import 'https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css';
+
+// Renk değişkenleri
+$primary-color: #007bff;
+$secondary-color: #6c757d;
+$success-color: #28a745;
+$danger-color: #dc3545;
+$warning-color: #ffc107;
+$info-color: #17a2b8;
+$light-color: #f8f9fa;
+$dark-color: #343a40;
+
+// Navbar stilleri
+.navbar {
+  background-color: $primary-color;
+
+  .navbar-brand,
+  .nav-link {
+    color: $light-color;
+
+    &:hover {
+      color: darken($light-color, 10%);
+    }
+  }
+}
+
+// Carousel stilleri
+.carousel {
+  .carousel-indicators li {
+    background-color: $dark-color;
+  }
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    filter: invert(100%);
+  }
+}
+
+// Card stilleri
+.card {
+  border: 1px solid $secondary-color;
+  .card-title {
+    color: $primary-color;
+  }
+  .card-text {
+    color: $dark-color;
+  }
+}
+
+// Form stilleri
+.form-group {
+  label {
+    color: $dark-color;
+  }
+  input {
+    border: 1px solid $secondary-color;
+    &:focus {
+      border-color: $primary-color;
+      box-shadow: 0 0 5px lighten($primary-color, 40%);
+    }
+  }
+  .form-text {
+    color: $secondary-color;
+  }
+}
+
+// Footer stilleri
+footer {
+  background-color: $secondary-color;
+  color: $light-color;
+  .text-dark {
+    color: $light-color !important;
+  }
+}
