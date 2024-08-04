@@ -3,144 +3,212 @@
 <head>
     <meta charset="UTF-8">
     <title>Portfolio</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
     <header>
-        <nav>
-            <ul>
-                <li><a href="#" onclick="showSection('home')">Home</a></li>
-                <li><a href="#" onclick="showSection('portfolio')">Portfolio</a></li>
-                <li><a href="#" onclick="showSection('certificates')">Certificates</a></li>
-            </ul>
+        <nav class="navbar navbar-expand-lg navbar-dark">
+            <div class="container">
+                <a class="navbar-brand" href="#">Cemal BOLAT</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item"><a class="nav-link" href="#" onclick="showSection('home')">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#" onclick="showSection('portfolio')">Portfolio</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#" onclick="showSection('certificates')">Certificates</a></li>
+                    </ul>
+                </div>
+            </div>
         </nav>
     </header>
-    <main>
+    <main class="container mt-5">
         <section id="home">
-            <h1>Welcome to My Portfolio</h1>
-            <div class="home-sections">
-                <section>
-                    <h1>About Me</h1>
+            <h1 class="text-center">Welcome to My Portfolio</h1>
+            <div class="row">
+                <div class="col-md-12">
+                    <h2 class="mt-0 mb-1 font-weight-bold">About Me</h2>
                     <p>Hi, I'm Cemal BOLAT. I'm a passionate Student from Gebze Technical University and Ecole 42 Kocaeli. </p>
                     <p>Programming has consistently ignited a passion within me, and I am exhilarated by the prospect of transforming my
                         conceptualizations into tangible realities. I am a quick learner and a team player,
                         and I am always eager to learn new things. I am proficient in C, C++, Java, C# and
                         Python.
-                        </p>
-                </section>
-                <section>
-                    <h1>Contact Me</h1>
+                    </p>
+                </div>
+            </div>
+            <div class="row mt-4">
+                <div class="col-md-12">
+                    <h2 class="mt-0 mb-1 font-weight-bold">Contact Me</h2>
                     <p>If you have any questions or want to get in touch, feel free to contact me via email or phone.</p>
                     <p>Email: <a href="mailto:cemalbolat2003@outlook.com">cemalbolat2003@outlook.com</a></p>
                     <p>LinkedIn: <a href="https://www.linkedin.com/in/cemal-bolat-a5188721b">Cemal BOLAT</a></p>
                     <p>GitHub: <a href="https://www.github.com/CemBOLAT">CemBOLAT</a></p>
-                </section>
+                </div>
             </div>
         </section>
         <section id="portfolio" style="display:none;">
-            <h1>Portfolio</h1>
+            <h1 class="text-center">Portfolio</h1>
             <p>Here are some of the projects I have worked on.</p>
-            <ul>
-                <li class="project">
-                    <h2>Minishell</h2>
-                    <img src="images/project1.jpg" width="300" height="200" alt="Project 1 Image">
-                    <p>A program works like bash terminal.</p>
-                    <a href="https://github.com/CemBOLAT/Minishell" target="_blank">View on GitHub</a>
+            <ul class="list-unstyled">
+                <li class="media my-4">
+                    <div class="media-body">
+                        <h3 class="mt-0 mb-1 font-weight-bold">Minishell</h3>
+                        <img src="images/project1.jpg" class="img-fluid" alt="Project 1 Image">
+                        <p>A program works like bash terminal.</p>
+                        <a href="https://github.com/CemBOLAT/Minishell" target="_blank">View on GitHub</a>
+                    </div>
                 </li>
-                <li class="project">
-                    <h2>Cube3D</h2>
-                    <img src="images/project2.png" width="300" height="200" alt="Project 2 Image">
-                    <p>Three-dimensional graphic program by creating a game engine using the ray-casting technique.</p>
-                    <a href="https://github.com/CemBOLAT/cub3d" target="_blank">View on GitHub</a>
+                <li class="media my-4">
+                    <div class="media-body">
+                        <h3 class="mt-0 mb-1 font-weight-bold">Cube3D</h3>
+                        <img src="images/project2.png" class="img-fluid" alt="Project 2 Image">
+                        <p>Three-dimensional graphic program by creating a game engine using the ray-casting technique.</p>
+                        <a href="https://github.com/CemBOLAT/cub3d" target="_blank">View on GitHub</a>
+                    </div>
                 </li>
-                <li class="project">
-                    <h2>IRC Server</h2>
-                    <img src="images/project3.png" width="300" height="200" alt="Project 3 Image">
-                    <p>IRC is a project inspired by the RFC1459 protocol, aimed at implementing a basic Internet Relay Chat (IRC) server and client.</p>
+                <li class="media my-4">
+                    <div class="media-body">
+                        <h3 class="mt-0 mb-1 font-weight-bold">IRC Server</h3>
+                        <img src="images/project3.png" class="img-fluid" alt="Project 3 Image">
+                        <p>IRC is a project inspired by the RFC1459 protocol, aimed at implementing a basic Internet Relay Chat (IRC) server and client.</p>
+                    </div>
                 </li>
-                <li class="project">
-                    <h2>AGENT 152</h2>
-                    <img src="images/project4.png" alt="Project 4 Image" width="300" height="200">
-                    <p>A 2d Platform game that we have developed with my team for a GameJam. Developed in Unity.</p>
-                    <a href="https://ahmetbahacepni.itch.io/agent152" target="_blank">View on itch.io</a>
+                <li class="media my-4">
+                    <div class="media-body">
+                        <h3 class="mt-0 mb-1 font-weight-bold">AGENT 152</h3>
+                        <img src="images/project4.png" class="img-fluid" alt="Project 4 Image">
+                        <p>A 2d Platform game that we have developed with my team for a GameJam. Developed in Unity.</p>
+                        <a href="https://ahmetbahacepni.itch.io/agent152" target="_blank">View on itch.io</a>
+                    </div>
                 </li>
-                <li class="project">
-                    <h2>Scene Matcher</h2>
-                    <img src="images/project5.png" alt="Project 5 Image" width="300" height="200">
-                    <p>A 3d program that controls the similarity of scenes. Developed in Unity.</p>
+                <li class="media my-4">
+                    <div class="media-body">
+                        <h3 class="mt-0 mb-1 font-weight-bold">Scene Matcher</h3>
+                        <img src="images/project5.png" class="img-fluid" alt="Project 5 Image">
+                        <p>A 3d program that controls the similarity of scenes. Developed in Unity.</p>
+                    </div>
                 </li>
-                <li class="project">
-                    <h2>Inception</h2>
-                    <img src="images/project6.jpg" width="300" height="200" alt="Project 6 Image">
-                    <p>A Docker-Compose project that creates a full web server environment.</p>
+                <li class="media my-4">
+                    <div class="media-body">
+                        <!--make it bold-->
+                        <h3 class="mt-0 mb-1 font-weight-bold">Inception</h3>
+                        <img src="images/project6.jpg" class="img-fluid" alt="Project 6 Image">
+                        <p>A Docker-Compose project that creates a full web server environment.</p>
+                    </div>
                 </li>
-                <li class="project">
-                    <h2>Wordle Clone</h2>
-                    <img src="images/project7.png" alt="Project 7 Image" width="300" height="200">
-                    <p>A clone of the popular game Wordle. Developed in Html, Css and Javascript.</p>
+                <li class="media my-4">
+                    <div class="media-body">
+                        <h3 class="mt-0 mb-1 font-weight-bold">Wordle Clone</h3>
+                        <img src="images/project7.png" class="img-fluid" alt="Project 7 Image">
+                        <p>A clone of the popular game Wordle. Developed in Html, Css and Javascript.</p>
+                    </div>
                 </li>
             </ul>
         </section>
+        
         <section id="certificates" style="display:none;">
-            <h1>Certificates</h1>
-            <ul>
-                <h1>System Administration</h1>
-                <ul>
-                    <li class="certificate">
-                        <h2>Özgür Yazılım Kampı / GNU/Linux 101</h2>
-                        <img src="https://kayit.linux.org.tr/media/2023/certs/e12188172c7703317aa1016edf2bccdd99124eed0ba7baf1143e4000e03eee77.png" width="300" height="200" alt="Certificate 1 Image">
-                        <p>Özgür Yazılım Kampı / GNU/Linux 101 is a 8-days intensive bootcamp that teaches the basics of GNU/Linux.</p>
-                    </li>
-                </ul>
-                <h1>Free Code Camp</h1>
-                <ul>
-                    <li class="certificate">
-                        <h2>Javascript Algorithms and Data Structures</h2>
-                        <img src="./certificates/JavaScriptAlgo.png" width="300" height="200" alt="Certificate 2 Image">
-                        <p>Javascript Algorithms and Data Structures is a certification that proves the knowledge of Javascript.</p>
-                    </li>
-                    <li class="certificate">
-                        <h2>Responsive Web Design</h2>
-                        <img src="certificates/WebDesign.png" width="300" height="200" alt="Certificate 3 Image">
-                        <p>Responsive Web Design is a certification that proves the knowledge of Html and Css.</p>
-                    </li>
-                </ul>
-                <h1>HackerRank</h1>
-                <ul>
-                    <li class="certificate">
-                        <h2>Problem Solving (Basic)</h2>
-                        <img src="certificates/ProblemSolvingBasic.png" width="300" height="200" alt="Certificate 4 Image">
-                        <p>Problem Solving (Basic) is a certification that proves the knowledge of basic problem solving.</p>
-                    </li>
-                    <li class="certificate">
-                        <h2>Java (Basic)</h2>
-                        <img src="certificates/JavaBasic.png" width="300" height="200" alt="Certificate 5 Image">
-                        <p>Java (Basic) is a certification that proves the knowledge of basic Java.</p>
-                    </li>
-                    <li class="certificate">
-                        <h2>Python (Basic)</h2>
-                        <img src="certificates/PythonBasic.png" width="300" height="200" alt="Certificate 6 Image">
-                        <p>Python (Basic) is a certification that proves the knowledge of basic Python.</p>
-                    </li>
-                    <li class="certificate">
-                        <h2>C# (Basic)</h2>
-                        <img src="certificates/CSharpBasic.png" width="300" height="200" alt="Certificate 7 Image">
-                        <p>C# (Basic) is a certification that proves the knowledge of basic C#.</p>
-                    </li>
-                    <li class="certificate">
-                        <h2>CSS (Basic)</h2>
-                        <img src="certificates/CSSBasic.png" width="300" height="200" alt="Certificate 8 Image">
-                        <p>CSS (Basic) is a certification that proves the knowledge of basic CSS.</p>
-                    </li>
-                </ul>
+            <h1 class="text-center">Certificates</h1>
+            <ul class="list-group">
+                <li class="list-group-item"><a href="#" onclick="showSubSection('cisco')">Cisco / SkillsForAll</a></li>
+                <li class="list-group-item"><a href="#" onclick="showSubSection('sysadmin')">System Administration</a></li>
+                <li class="list-group-item"><a href="#" onclick="showSubSection('freecodecamp')">Free Code Camp</a></li>
+                <li class="list-group-item"><a href="#" onclick="showSubSection('hackerrank')">HackerRank</a></li>
             </ul>
-
+            <div id="cisco" class="certificate-section mt-4" style="display:none;">
+                <h2 class="mt-0 mb-1 font-weight-bold">Cisco / SkillsForAll</h2>
+                <div class="card mb-4">
+                    <img src="./certificates/JsEssentials.png" class="card-img-top" alt="Certificate 1 Image">
+                    <div class="card-body">
+                        <h3 class="card-title">JavaScript Essentials</h3>
+                        <p class="card-text">JavaScript Essentials is a certification that proves the knowledge of Javascript.</p>
+                        <a href="https://www.credly.com/badges/159edfb3-dda5-4cb4-8e0d-d6222467161b/public_url" class="btn btn-primary" target="_blank">View Certificate</a>
+                    </div>
+                </div>
+                <div class="card mb-4">
+                    <img src="./certificates/c++.png" class="card-img-top" alt="Certificate 2 Image">
+                    <div class="card-body">
+                        <h3 class="card-title">CPA - Programming Essentials in C++</h3>
+                        <p class="card-text">CPA - Programming Essentials in C++ is a certification that proves the knowledge of C++.</p>
+                    </div>
+                </div>
+            </div>
+            <div id="sysadmin" class="certificate-section mt-4" style="display:none;">
+                <h2 class="mt-0 mb-1 font-weight-bold">System Administration</h2>
+                <div class="card mb-4">
+                    <img src="https://kayit.linux.org.tr/media/2023/certs/e12188172c7703317aa1016edf2bccdd99124eed0ba7baf1143e4000e03eee77.png" class="card-img-top" alt="Certificate 1 Image">
+                    <div class="card-body">
+                        <h3 class="card-title">Özgür Yazılım Kampı / GNU/Linux 101</h3>
+                        <p class="card-text">Özgür Yazılım Kampı / GNU/Linux 101 is a 8-days intensive bootcamp that teaches the basics of GNU/Linux.</p>
+                    </div>
+                </div>
+            </div>
+            <div id="freecodecamp" class="certificate-section mt-4" style="display:none;">
+                <h2 class="mt-0 mb-1 font-weight-bold">Free Code Camp</h2>
+                <div class="card mb-4">
+                    <img src="./certificates/JavaScriptAlgo.png" class="card-img-top" alt="Certificate 2 Image">
+                    <div class="card-body">
+                        <h3 class="card-title">Javascript Algorithms and Data Structures</h3>
+                        <p class="card-text">Javascript Algorithms and Data Structures is a certification that proves the knowledge of Javascript.</p>
+                    </div>
+                </div>
+                <div class="card mb-4">
+                    <img src="certificates/WebDesign.png" class="card-img-top" alt="Certificate 3 Image">
+                    <div class="card-body">
+                        <h3 class="card-title">Responsive Web Design</h3>
+                        <p class="card-text">Responsive Web Design is a certification that proves the knowledge of Html and Css.</p>
+                    </div>
+                </div>
+            </div>
+            <div id="hackerrank" class="certificate-section mt-4" style="display:none;">
+                <h2 class="mt-0 mb-1 font-weight-bold">HackerRank</h2>
+                <div class="card mb-4">
+                    <img src="certificates/ProblemSolvingBasic.png" class="card-img-top" alt="Certificate 4 Image">
+                    <div class="card-body">
+                        <h3 class="card-title">Problem Solving (Basic)</h3>
+                        <p class="card-text">Problem Solving (Basic) is a certification that proves the knowledge of basic problem solving.</p>
+                    </div>
+                </div>
+                <div class="card mb-4">
+                    <img src="certificates/JavaBasic.png" class="card-img-top" alt="Certificate 5 Image">
+                    <div class="card-body">
+                        <h3 class="card-title">Java (Basic)</h3>
+                        <p class="card-text">Java (Basic) is a certification that proves the knowledge of basic Java.</p>
+                    </div>
+                </div>
+                <div class="card mb-4">
+                    <img src="certificates/PythonBasic.png" class="card-img-top" alt="Certificate 6 Image">
+                    <div class="card-body">
+                        <h3 class="card-title">Python (Basic)</h3>
+                        <p class="card-text">Python (Basic) is a certification that proves the knowledge of basic Python.</p>
+                    </div>
+                </div>
+                <div class="card mb-4">
+                    <img src="certificates/CSharpBasic.png" class="card-img-top" alt="Certificate 7 Image">
+                    <div class="card-body">
+                        <h3 class="card-title">C# (Basic)</h3>
+                        <p class="card-text">C# (Basic) is a certification that proves the knowledge of basic C#.</p>
+                    </div>
+                </div>
+                <div class="card mb-4">
+                    <img src="certificates/CSSBasic.png" class="card-img-top" alt="Certificate 8 Image">
+                    <div class="card-body">
+                        <h3 class="card-title">CSS (Basic)</h3>
+                        <p class="card-text">CSS (Basic) is a certification that proves the knowledge of basic CSS.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
     </main>
-    <footer>
+    <footer class="bg-dark text-white text-center py-3">
         <p>&copy; 2024 by Cemal BOLAT</p>
     </footer>
 
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <script>
         function showSection(sectionId) {
             const sections = document.querySelectorAll('main > section');
@@ -149,6 +217,17 @@
                     section.style.display = 'block';
                 } else {
                     section.style.display = 'none';
+                }
+            });
+        }
+
+        function showSubSection(subSectionId) {
+            const subSections = document.querySelectorAll('.certificate-section');
+            subSections.forEach(subSection => {
+                if (subSection.id === subSectionId) {
+                    subSection.style.display = 'block';
+                } else {
+                    subSection.style.display = 'none';
                 }
             });
         }
