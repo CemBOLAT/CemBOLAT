@@ -123,6 +123,11 @@
     <td align="center">100 / 100</td>
     <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
   </tr>
+    <tr>
+        <td><a href="https://github.com/CemBOLAT/Inception-42" align="center">Inception</a></td>
+        <td align="center">125 / 125</td>
+        <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+    </tr>
 </table>
 
 </details>
