@@ -77,18 +77,21 @@
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/get-next-line" align="center">get_next_line</a></td>
-    <td align="center">125 / 125</td>
-    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+    <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/get-next-line" alt="c"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/115%20%2F%20125-success" alt="125/125"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/printf" align="center">ft_printf</a></td>
-    <td align="center">100 / 125</td>
-    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+    <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/printf" alt="c"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/100%20%2F%20125-success" alt="100/100"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/oyk2023" align="center">Born2beroot</a></td>
-    <td align="center">110 / 125 (similar project)</td>
-    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+    <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/oyk2023" alt="c"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/110%20%2F%20125-success" alt="100/100"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/Minitalk" align="center">minitalk</a></td>
