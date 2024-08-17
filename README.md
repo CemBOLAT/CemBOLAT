@@ -78,55 +78,55 @@
   <tr>
     <td><a href="https://github.com/CemBOLAT/get-next-line" align="center">get_next_line</a></td>
     <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/get-next-line" alt="c"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/115%20%2F%20125-success" alt="125/125"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/115%20%2F%20100-success" alt="125/100"/></td>
     <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/printf" align="center">ft_printf</a></td>
     <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/printf" alt="c"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/100%20%2F%20125-success" alt="100/100"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/100%20%2F%20100-success" alt="100/100"/></td>
     <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/oyk2023" align="center">Born2beroot</a></td>
     <td align="center">Similar Project to 42's Born2beroot</td>
-    <td align="center"><img src="https://img.shields.io/badge/110%20%2F%20125-success" alt="100/100"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/110%20%2F%20100-success" alt="110/100"/></td>
     <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/Minitalk" align="center">minitalk</a></td>
     <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/Minitalk" alt="c"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/118%20%2F%20125-success" alt="118/125"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/118%20%2F%20100-success" alt="118/100"/></td>
     <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/so_long" align="center">so_long</a></td>
     <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/so_long" alt="c"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/115%20%2F%20125-success" alt="115/125"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/115%20%2F%20100-success" alt="115/100"/></td>
     <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/push_swap" align="center">push_swap</a></td>
     <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/push_swap" alt="c"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20125-success" alt="125/125"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
     <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/philo" align="center">Philosophers</a></td>
     <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/philo" alt="c"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20125-success" alt="100/100"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="100/100"/></td>
     <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/42-minishell" align="center">Minishell</a></td>
     <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/42-minishell" alt="c"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/101%20%2F%20125-success" alt="100/100"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/101%20%2F%20100-success" alt="100/100"/></td>
     <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/cub3d" align="center">cub3d</a></td>
     <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/cub3d" alt="c"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20125-success" alt="125/125"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
     <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
@@ -138,19 +138,19 @@
     <tr>
         <td><a href="https://github.com/CemBOLAT/Inception-42" align="center">Inception</a></td>
         <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/Inception-42" alt="c"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20125-success" alt="125/125"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
         <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/CemBOLAT/FT_IRC-Internet_Relay_Chat" align="center">ft_irc</a></td>
         <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/FT_IRC-Internet_Relay_Chat" alt="c"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20125-success" alt="125/125"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
         <td align="center"><img src="https://img.shields.io/badge/status-in%20not%20documented-yellow?style=flat-square" alt="yes"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/hsynask/ft_transcendence" align="center">ft_transcendence</a></td>
         <td align="center"><img src="https://img.shields.io/github/languages/top/hsynask/ft_transcendence" alt="c"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20125-success" alt="125/125"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
         <td align="center"><img src="https://img.shields.io/badge/status-in%20not%20documented-yellow?style=flat-square" alt="yes"/></td>
     </tr>
 </table>
@@ -163,7 +163,7 @@
 
 <table width="100%" align="center">
   <details>
-    <summary><h1></h1></summary>
+    <summary><h1>Devops</h1></summary>
       <table>
         <tr style="display:flex; justify-content:space-around; padding:0;">
           <th>Project Name</th>
@@ -172,10 +172,39 @@
           <th>Status</th>
         </tr>
         <tr>
-          <td><a href="https://github.com/CemBOLAT/libft" align="center">Libft</a></td>
-          <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/libft" alt="c"/></td>
+          <td><a href="https://github.com/CemBOLAT/ft_ping" align="center">ft_ping</a></td>
+          <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/ft_ping" alt="c"/></td>
           <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
+          <td align="center"><img src="https://img.shields.io/badge/status-in%20no%20evaluated%20yet-red?style=flat-square" alt="no"/></td>
+        </tr>
+      </table>
+  </details>
+  <details>
+    <summary><h1>Cryptography & Maths</h1></summary>
+      <table>
+        <tr style="display:flex; justify-content:space-around; padding:0;">
+          <th>Project Name</th>
+          <th>Languages</th>
+          <th>Grades</th>
+          <th>Status</th>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/CemBOLAT/matrix" align="center">matrix</a></td>
+          <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/matrix" alt="c"/></td>
+          <td align="center"><img src="https://img.shields.io/badge/115%20%2F%20100-success" alt="115/100"/></td>
+          <td align="center"><img src="https://img.shields.io/badge/status-in%20no%20evaluated%20yet-red?style=flat-square" alt="no"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/CemBOLAT/computorv1" align="center">computorv1</a></td>
+          <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/computorv1" alt="c"/></td>
+          <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
+          <td align="center"><img src="https://img.shields.io/badge/status-in%20no%20evaluated%20yet-red?style=flat-square" alt="no"/></td>
+        </tr>
+        <tr>
+          <td><a href="https://github.com/CemBOLAT/ready-set-boole" align="center">ready set boole</a></td>
+          <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/ready-set-boole" alt="c"/></td>
+          <td align="center"><img src="https://img.shields.io/badge/100%20%2F%20100-success" alt="100/100"/></td>
+          <td align="center"><img src="https://img.shields.io/badge/status-in%20no%20evaluated%20yet-red?style=flat-square" alt="no"/></td>
         </tr>
       </table>
   </details>
