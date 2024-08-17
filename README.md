@@ -156,8 +156,33 @@
 </table>
 
 </details>
+<hr>
+
+<details>
+<summary><h1>Ecole 42 Specialization Project</h1></summary>
+
+<table width="100%" align="center">
+  <details>
+    <summary><h1></h1></summary>
+      <tr style="display:flex; justify-content:space-around; padding:0;">
+        <th>Project Name</th>
+        <th>Languages</th>
+        <th>Grades</th>
+        <th>Status</th>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/CemBOLAT/libft" align="center">Libft</a></td>
+        <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/libft" alt="c"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
+      </tr>
+  </details>
+</table>
+
+</details>
 
 <hr>
+
 
 - 📫 How to reach me **cemalbolat2003@outlook.com**
 
