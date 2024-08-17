@@ -159,61 +159,58 @@
 <hr>
 
 <details>
-<summary><h1>Ecole 42 Specialization Project</h1></summary>
+  <summary><h1>Ecole 42 Specialization Project</h1></summary>
 
-<table width="100%" align="center">
   <details>
     <summary><h1>Devops</h1></summary>
-      <table>
-        <tr style="display:flex; justify-content:space-around; padding:0;">
-          <th>Project Name</th>
-          <th>Languages</th>
-          <th>Grades</th>
-          <th>Status</th>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/CemBOLAT/ft_ping" align="center">ft_ping</a></td>
-          <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/ft_ping" alt="c"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/status-in%20no%20evaluated%20yet-red?style=flat-square" alt="no"/></td>
-        </tr>
-      </table>
+    <table width="100%" align="center">
+      <tr style="display:flex; justify-content:space-around; padding:0;">
+        <th>Project Name</th>
+        <th>Languages</th>
+        <th>Grades</th>
+        <th>Status</th>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/CemBOLAT/ft_ping" align="center">ft_ping</a></td>
+        <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/ft_ping" alt="c"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20no%20evaluated%20yet-red?style=flat-square" alt="no"/></td>
+      </tr>
+    </table>
   </details>
+  <hr>
+
   <details>
     <summary><h1>Cryptography & Maths</h1></summary>
-      <table>
-        <tr style="display:flex; justify-content:space-around; padding:0;">
-          <th>Project Name</th>
-          <th>Languages</th>
-          <th>Grades</th>
-          <th>Status</th>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/CemBOLAT/matrix" align="center">matrix</a></td>
-          <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/matrix" alt="c"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/115%20%2F%20100-success" alt="115/100"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/status-in%20no%20evaluated%20yet-red?style=flat-square" alt="no"/></td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/CemBOLAT/computorv1" align="center">computorv1</a></td>
-          <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/computorv1" alt="c"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/status-in%20no%20evaluated%20yet-red?style=flat-square" alt="no"/></td>
-        </tr>
-        <tr>
-          <td><a href="https://github.com/CemBOLAT/ready-set-boole" align="center">ready set boole</a></td>
-          <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/ready-set-boole" alt="c"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/100%20%2F%20100-success" alt="100/100"/></td>
-          <td align="center"><img src="https://img.shields.io/badge/status-in%20no%20evaluated%20yet-red?style=flat-square" alt="no"/></td>
-        </tr>
-      </table>
+    <table width="100%" align="center">
+      <tr style="display:flex; justify-content:space-around; padding:0;">
+        <th>Project Name</th>
+        <th>Languages</th>
+        <th>Grades</th>
+        <th>Status</th>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/CemBOLAT/matrix" align="center">matrix</a></td>
+        <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/matrix" alt="c"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/115%20%2F%20100-success" alt="115/100"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20no%20evaluated%20yet-red?style=flat-square" alt="no"/></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/CemBOLAT/computorv1" align="center">computorv1</a></td>
+        <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/computorv1" alt="c"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20no%20evaluated%20yet-red?style=flat-square" alt="no"/></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/CemBOLAT/ready-set-boole" align="center">ready set boole</a></td>
+        <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/ready-set-boole" alt="c"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/100%20%2F%20100-success" alt="100/100"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20no%20evaluated%20yet-red?style=flat-square" alt="no"/></td>
+      </tr>
+    </table>
   </details>
-</table>
 
 </details>
-
-<hr>
-
 
 - 📫 How to reach me **cemalbolat2003@outlook.com**
 
