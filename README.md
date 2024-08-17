@@ -60,16 +60,18 @@
 <hr>
 
 <details>
-<summary><h1>My Ecole 42 Projects</h1></summary>
+<summary><h1>Ecole 42 Common Core Project</h1></summary>
 
 <table width="100%" align="center">
   <tr style="display:flex; justify-content:space-around; padding:0;">
     <th>Project Name</th>
+    <th>Languages</th>
     <th>Grades</th>
-    <th>Is Available</th>
+    <th>Status</th>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/libft" align="center">Libft</a></td>
+    <td align="center"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" width="40" height="40"/></td>
     <td align="center">125 / 125</td>
     <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
   </tr>
@@ -123,6 +125,11 @@
     <td align="center">100 / 100</td>
     <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
   </tr>
+    <tr>
+        <td><a href="https://github.com/CemBOLAT/Inception-42" align="center">Inception</a></td>
+        <td align="center">125 / 125</td>
+        <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+    </tr>
     <tr>
         <td><a href="https://github.com/CemBOLAT/Inception-42" align="center">Inception</a></td>
         <td align="center">125 / 125</td>
