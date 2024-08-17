@@ -178,8 +178,7 @@
       </tr>
     </table>
   </details>
-  <hr>
-
+  
   <details>
     <summary><h1>Cryptography & Maths</h1></summary>
     <table width="100%" align="center">
