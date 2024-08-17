@@ -71,9 +71,9 @@
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/libft" align="center">Libft</a></td>
-    <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/libft" alt="c" width="40" height="40"/></td>
-    <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100" width="40" height="40"/></td>
-    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+    <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/libft" alt="c"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
+    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/get-next-line" align="center">get_next_line</a></td>
