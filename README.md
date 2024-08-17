@@ -144,7 +144,7 @@
     <tr>
         <td><a href="https://github.com/CemBOLAT/CPP_MODULES" align="center">Cpp Modules</a></td>
         <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/CPP_MODULES" alt="c"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/100%20%2F%20100-success" alt="100/100"/>(each module)</td>
+        <td align="center"><img src="https://img.shields.io/badge/100%20%2F%20100-success" alt="100/100"/></td>
         <td align="center"><img src="https://img.shields.io/badge/status-in%20not%20documented-yellow?style=flat-square" alt="yes"/></td>
     </tr>
     <tr>
