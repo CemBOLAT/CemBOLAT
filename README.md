@@ -5,8 +5,10 @@
 
 <div align="center">
     
-| <a href="https://portfolio-builder-81257.web.app/"> Portfolio </a> | <a href="https://github.com/CemBOLAT/GTU-University-Assignments"> University Assignments </a> | Hackerrank Account: | <a href="https://www.hackerrank.com/cemalbolat2003"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cemalbolat2003" height="30" width="40" /></a> |
-|----------------------|----------------------|----------------------|-----------------------------------------------------------------------------------------------------------------|
+| <a href="https://portfolio-builder-81257.web.app/"> Portfolio </a> | <a href="https://github.com/CemBOLAT/GTU-University-Assignments"> University Assignments </a>|
+|----------------------|----------------------|
+Hackerrank Account: | <a href="https://www.hackerrank.com/cemalbolat2003"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cemalbolat2003" height="30" width="40" /></a> |
+Leetcode Account: | <a href="https://www.leetcode.com/Cenaksa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Cenaksa" height="30" width="40" /></a>|
 
 </div>
 
@@ -151,13 +153,13 @@
         <td><a href="https://github.com/CemBOLAT/FT_IRC-Internet_Relay_Chat" align="center">ft_irc</a></td>
         <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/FT_IRC-Internet_Relay_Chat" alt="c"/></td>
         <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/status-in%20not%20documented-yellow?style=flat-square" alt="yes"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/hsynask/ft_transcendence" align="center">ft_transcendence</a></td>
-        <td align="center"><img src="https://img.shields.io/github/languages/top/hsynask/ft_transcendence" alt="c"/></td>
+        <td><a href="https://github.com/CemBOLAT/ft_transcendence" align="center">ft_transcendence</a></td>
+        <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/ft_transcendence" alt="c"/></td>
         <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/status-in%20not%20documented-yellow?style=flat-square" alt="yes"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
     </tr>
 </table>
 
@@ -180,7 +182,7 @@
         <td><a href="https://github.com/CemBOLAT/ft_ping" align="center">ft_ping</a></td>
         <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/ft_ping" alt="c"/></td>
         <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/status-in%20no%20evaluated%20yet-red?style=flat-square" alt="no"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
       </tr>
     </table>
   </details>
@@ -198,19 +200,19 @@
         <td><a href="https://github.com/CemBOLAT/matrix" align="center">matrix</a></td>
         <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/matrix" alt="c"/></td>
         <td align="center"><img src="https://img.shields.io/badge/115%20%2F%20100-success" alt="115/100"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/status-in%20no%20evaluated%20yet-red?style=flat-square" alt="no"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
       </tr>
       <tr>
         <td><a href="https://github.com/CemBOLAT/computorv1" align="center">computorv1</a></td>
         <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/computorv1" alt="c"/></td>
         <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/status-in%20no%20evaluated%20yet-red?style=flat-square" alt="no"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
       </tr>
       <tr>
         <td><a href="https://github.com/CemBOLAT/ready-set-boole" align="center">ready set boole</a></td>
         <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/ready-set-boole" alt="c"/></td>
         <td align="center"><img src="https://img.shields.io/badge/100%20%2F%20100-success" alt="100/100"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/status-in%20no%20evaluated%20yet-red?style=flat-square" alt="no"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
       </tr>
     </table>
   </details>
