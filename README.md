@@ -223,6 +223,30 @@ Leetcode Account: | <a href="https://www.leetcode.com/Cenaksa" target="blank"><i
     </table>
   </details>
 
+  <details>
+    <summary><h1>AI & Algo & Data</h1></summary>
+    <table width="100%" align="center">
+      <tr style="display:flex; justify-content:space-around; padding:0;">
+        <th>Project Name</th>
+        <th>Languages</th>
+        <th>Grades</th>
+        <th>Status</th>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/CemBOLAT/Python-Data-Science-42" align="center">Python Data Science</a></td>
+        <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/Python-Data-Science-42" alt="c"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/115%20%2F%20100-success" alt="100/100"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/CemBOLAT/ft_linear_regression" align="center">ft_linear_regression</a></td>
+        <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/ft_linear_regression" alt="c"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/115%20%2F%20100-success" alt="125/100"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
+      </tr>
+    </table>
+  </details>
+
 </details>
 
 - 📫 How to reach me **cemalbolat2003@outlook.com**
