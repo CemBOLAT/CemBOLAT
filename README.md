@@ -215,7 +215,7 @@ Leetcode Account: | <a href="https://www.leetcode.com/Cenaksa" target="blank"><i
         <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
       </tr>
       <tr>
-        <td><a href="https://github.com/CemBOLAT/ready-set-boole" align="center">ready set boole</a></td>
+        <td><a href="https://github.com/CemBOLAT/ready-set-boole-42" align="center">ready set boole</a></td>
         <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/ready-set-boole-42" alt="c"/></td>
         <td align="center"><img src="https://img.shields.io/badge/100%20%2F%20100-success" alt="100/100"/></td>
         <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
