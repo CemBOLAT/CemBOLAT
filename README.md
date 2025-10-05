@@ -4,11 +4,31 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cembolat&label=Profile%20views&color=0e75b6&style=flat" alt="cembolat" /> </p>
 
 <div align="center">
-    
-| <a href="https://portfolio-builder-81257.web.app/"> Portfolio </a> | <a href="https://github.com/CemBOLAT/GTU-University-Assignments"> University Assignments </a>|
-|----------------------|----------------------|
-Hackerrank Account: | <a href="https://www.hackerrank.com/cemalbolat2003"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cemalbolat2003" height="30" width="40" /></a> |
-Leetcode Account: | <a href="https://www.leetcode.com/Cenaksa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Cenaksa" height="30" width="40" /></a>|
+
+<a href="https://portfolio-builder-81257.web.app/">Portfolio</a> | <a href="mailto:cemalbolat2003@gmail.com">cemalbolat2003@outlook.com</a> | <a href="https://www.linkedin.com/in/cemal-bolat-a5188721b"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahuldkjain" height="30" width="40" /></a>
+|----------------------------|----------------------------|----------------------------|
+---
+
+## 🎓 University Assignments
+| <a href="https://github.com/CemBOLAT/GTU-University-Assignments">GTU-University-Assignments</a> |
+|----------------------------|
+
+---
+
+## 💻 Coding Profiles
+|  |  |
+|--|--|
+| <a href="https://www.hackerrank.com/cemalbolat2003"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="40" width="50" /></a> | <a href="https://www.leetcode.com/Cenaksa"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="40" width="50" /></a> |
+
+---
+
+## 🚀 Active Projects
+
+| Project | Description |
+|---------|-------------|
+| <a href="https://testmachina-1ae22.web.app/">Test Machine</a> | Laterizasyon testi yapan uygulama |
+
+
 
 </div>
 
