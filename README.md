@@ -4,9 +4,31 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cembolat&label=Profile%20views&color=0e75b6&style=flat" alt="cembolat" /> </p>
 
 <div align="center">
-    
-| <a href="https://cembolat.github.io/CemBOLAT/"> Portfolio </a> | <a href="https://github.com/CemBOLAT/GTU-University-Assignments"> University Assignments </a> | Hackerrank Account: | <a href="https://www.hackerrank.com/cemalbolat2003"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="cemalbolat2003" height="30" width="40" /></a> |
-|----------------------|----------------------|----------------------|-----------------------------------------------------------------------------------------------------------------|
+
+<a href="https://portfolio-builder-81257.web.app/">Portfolio</a> | <a href="mailto:cemalbolat2003@gmail.com">cemalbolat2003@outlook.com</a> | <a href="https://www.linkedin.com/in/cemal-bolat-a5188721b"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahuldkjain" height="30" width="40" /></a>
+|----------------------------|----------------------------|----------------------------|
+---
+
+## 🎓 University Assignments
+| <a href="https://github.com/CemBOLAT/GTU-University-Assignments">GTU-University-Assignments</a> |
+|----------------------------|
+
+---
+
+## 💻 Coding Profiles
+|  |  |
+|--|--|
+| <a href="https://www.hackerrank.com/cemalbolat2003"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="40" width="50" /></a> | <a href="https://www.leetcode.com/Cenaksa"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="40" width="50" /></a> |
+
+---
+
+## 🚀 Active Projects
+
+| Project | Description |
+|---------|-------------|
+| <a href="https://testmachina-1ae22.web.app/">Test Machine</a> | Laterizasyon testi yapan uygulama |
+
+
 
 </div>
 
@@ -60,76 +82,192 @@
 <hr>
 
 <details>
-<summary><h1>My Ecole 42 Projects</h1></summary>
+<summary><h1>Ecole 42 Common Core Project</h1></summary>
 
 <table width="100%" align="center">
   <tr style="display:flex; justify-content:space-around; padding:0;">
     <th>Project Name</th>
+    <th>Languages</th>
     <th>Grades</th>
-    <th>Is Available</th>
+    <th>Status</th>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/libft" align="center">Libft</a></td>
-    <td align="center">125 / 125</td>
-    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+    <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/libft" alt="c"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/get-next-line" align="center">get_next_line</a></td>
-    <td align="center">125 / 125</td>
-    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+    <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/get-next-line" alt="c"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/115%20%2F%20100-success" alt="125/100"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/printf" align="center">ft_printf</a></td>
-    <td align="center">100 / 125</td>
-    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+    <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/printf" alt="c"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/100%20%2F%20100-success" alt="100/100"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/oyk2023" align="center">Born2beroot</a></td>
-    <td align="center">110 / 125 (similar project)</td>
-    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+    <td align="center">Similar Project to 42's Born2beroot</td>
+    <td align="center"><img src="https://img.shields.io/badge/110%20%2F%20100-success" alt="110/100"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/Minitalk" align="center">minitalk</a></td>
-    <td align="center">118 / 125</td>
-    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+    <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/Minitalk" alt="c"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/118%20%2F%20100-success" alt="118/100"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/so_long" align="center">so_long</a></td>
-    <td align="center">115 / 125</td>
-    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+    <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/so_long" alt="c"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/115%20%2F%20100-success" alt="115/100"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/push_swap" align="center">push_swap</a></td>
-    <td align="center">125 / 125</td>
-    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+    <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/push_swap" alt="c"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/philo" align="center">Philosophers</a></td>
-    <td align="center">125 / 125</td>
-    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+    <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/philo" alt="c"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="100/100"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/42-minishell" align="center">Minishell</a></td>
-    <td align="center">101 / 125</td>
-    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+    <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/42-minishell" alt="c"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/101%20%2F%20100-success" alt="100/100"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/cub3d" align="center">cub3d</a></td>
-    <td align="center">125 / 125</td>
-    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+    <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/cub3d" alt="c"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
   <tr>
     <td><a href="https://github.com/CemBOLAT/NetPractice" align="center">NetPractice</a></td>
-    <td align="center">100 / 100</td>
-    <td align="center"><img src="https://github.com/CemBOLAT/CemBOLAT/assets/103999323/693bcf6b-1a9f-4abd-9647-ca1f9e71460f" alt="yes" width="20" height="20"/></td>
+    <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/NetPractice" alt="c"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/100%20%2F%20100-success" alt="100/100"/></td>
+    <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
   </tr>
+    <tr>
+        <td><a href="https://github.com/CemBOLAT/Inception-42" align="center">Inception</a></td>
+        <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/Inception-42" alt="c"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CemBOLAT/CPP_MODULES" align="center">Cpp Modules</a></td>
+        <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/CPP_MODULES" alt="c"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/100%20%2F%20100-success" alt="100/100"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CemBOLAT/FT_IRC-Internet_Relay_Chat" align="center">ft_irc</a></td>
+        <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/FT_IRC-Internet_Relay_Chat" alt="c"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/CemBOLAT/ft_transcendence" align="center">ft_transcendence</a></td>
+        <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/ft_transcendence" alt="c"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
+    </tr>
 </table>
 
 </details>
-
 <hr>
 
-- 📫 How to reach me **cemalbolat2003@outlook.com**
+<details>
+  <summary><h1>Ecole 42 Specialization Project</h1></summary>
+
+  <details>
+    <summary><h1>Devops</h1></summary>
+    <table width="100%" align="center">
+      <tr style="display:flex; justify-content:space-around; padding:0;">
+        <th>Project Name</th>
+        <th>Languages</th>
+        <th>Grades</th>
+        <th>Status</th>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/CemBOLAT/ft_ping" align="center">ft_ping</a></td>
+        <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/ft_ping" alt="c"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
+      </tr>
+    </table>
+  </details>
+
+  <details>
+    <summary><h1>Cryptography & Maths</h1></summary>
+    <table width="100%" align="center">
+      <tr style="display:flex; justify-content:space-around; padding:0;">
+        <th>Project Name</th>
+        <th>Languages</th>
+        <th>Grades</th>
+        <th>Status</th>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/CemBOLAT/matrix" align="center">matrix</a></td>
+        <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/matrix-42" alt="c"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/115%20%2F%20100-success" alt="115/100"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/CemBOLAT/computorv1" align="center">computorv1</a></td>
+        <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/computorv1" alt="c"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/CemBOLAT/computorv2" align="center">computorv2</a></td>
+        <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/computorv2" alt="c"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/125%20%2F%20100-success" alt="125/100"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/CemBOLAT/ready-set-boole-42" align="center">ready set boole</a></td>
+        <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/ready-set-boole-42" alt="c"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/100%20%2F%20100-success" alt="100/100"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
+      </tr>
+    </table>
+  </details>
+
+  <details>
+    <summary><h1>AI & Algo & Data</h1></summary>
+    <table width="100%" align="center">
+      <tr style="display:flex; justify-content:space-around; padding:0;">
+        <th>Project Name</th>
+        <th>Languages</th>
+        <th>Grades</th>
+        <th>Status</th>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/CemBOLAT/Python-Data-Science-42" align="center">Python Data Science</a></td>
+        <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/Python-Data-Science-42" alt="c"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/115%20%2F%20100-success" alt="100/100"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/CemBOLAT/ft_linear_regression" align="center">ft_linear_regression</a></td>
+        <td align="center"><img src="https://img.shields.io/github/languages/top/CemBOLAT/ft_linear_regression" alt="c"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/115%20%2F%20100-success" alt="125/100"/></td>
+        <td align="center"><img src="https://img.shields.io/badge/status-in%20finished-green?style=flat-square" alt="yes"/></td>
+      </tr>
+    </table>
+  </details>
+
+</details>
 
 <hr>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cembolat&show_icons=true&theme=dark&locale=en&layout=compact" alt="cembolat" /></p>
